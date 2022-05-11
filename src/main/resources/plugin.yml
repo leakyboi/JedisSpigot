@@ -1,0 +1,4 @@
+name: JedisTest
+version: '${project.version}'
+main: xyz.cookielord.jedistest.JedisTest
+api-version: 1.13
